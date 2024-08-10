@@ -2,7 +2,7 @@
 	<img src="https://i.ibb.co/CWY693F/beatprints-logo.png" width="175"/>
 </h3>
 <h3 align="center">
-	BeatPrints: Quick, stylish posters for your favorite tracks! 🎷☕️
+	[ShareGiftList](https://sharegiftlist.com): Quick, stylish posters for your favorite tracks! 🎷☕️
 </h3>
 
 <p align="center">A tool designed to create eye-catching Pinterest-style music posters that stand out. It provides a straightforward way to generate custom posters using <b>Spotify</b> and <b>LRClib API</b>. 🍀</p>
@@ -101,7 +101,7 @@ I created this project after finding out that people sell these posters on [Etsy
 - Thanks to [Spotify Poster Generator](https://github.com/AnveshakR/poster-generator/) by [@AnveshakR](https://github.com/AnveshakR) for a good amount of ideas!
 - A big shoutout to [@Magniquick](https://github.com/Magniquick) & @[Krishna-Gunjan](https://github.com/Krishna-Gunjan) for their big contributions!
 - And a heartfelt thank you to [@T-Dynamos](https://github.com/T-Dynamos) and [@cherriae](https://github.com/cherriae) for their significant improvements to BeatPrints.
-
+- [Place Card Templates ](https://placecard.us)
 ## 📋 About License
 
 **BeatPrints** is released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**, which grants the following permissions:
